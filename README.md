@@ -1,16 +1,43 @@
-### Hi there 👋
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
-<!--
-**VadimKulyba/VadimKulyba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="center">
+    <h1 align="center">VadimKulyba</h1>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
+
+<p align="center">
+    <img id="preview" src="https://visitor-badge.glitch.me/badge?page_id=VadimKulyba">
+</p>
+
+<br>
+
+### My technology stack:
+
+![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![Ruby](https://img.shields.io/badge/-Ruby-333?style=for-the-badge&logo=ruby)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
+
+<p align="center">
+    <a href="https://github.com/VadimKulyba">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadimKulyba&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true">
+    </a>
+</p>
+
+
+<p align="center">
+    <a href="https://github.com/VadimKulyba">
+        <img src="https://github-readme-stats.vercel.app/api?username=VadimKulyba&show_icons=true&hide=issues,contribs&count_private=true&theme=dark">
+    </a>
+</p>
