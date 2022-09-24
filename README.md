@@ -14,13 +14,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 
+<br>
+
 ## 🔭 About me
 
-<br>
-
-Software engineer design and development web-based applications using mostly interpreted programming languages. Hands-on experience in all phases of software development life cycle like requirements gathering, business analysis, architectural and project design, development and integration with engineering practices and patterns, documentation, testing and implementation with Agile methodologies. I really respect the engineering culture without excesses and love healthy perfectionism in programming. My engineering hobby is ML algorithms and neural network.
-
-<br>
+<p>
+    Software engineer design and development web-based applications using mostly interpreted programming languages. Hands-on experience in all phases of software development life cycle like requirements gathering, business analysis, architectural and project design, development and integration with engineering practices and patterns, documentation, testing and implementation with Agile methodologies. I really respect the engineering culture without excesses and love healthy perfectionism in programming. My engineering hobby is ML algorithms and neural network.
+</p>
 
 ## 👩‍💻 My technology stack:
 
@@ -53,8 +53,6 @@ Software engineer design and development web-based applications using mostly int
 
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
-
-<br>
 
 ## 📈 GitHub Stats
 
