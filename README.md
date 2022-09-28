@@ -19,18 +19,22 @@
 ## 🔭 About me
 
 <p>
-    ✌️ My name is Vadim, I am 24 years old. I have been doing programming for about 7 years, trying out different technologies. I have been engaged in industrial development for 5 years, in particular in Web Development.
+    ✌️ My name is Vadim. I have been programming for 7+ years, trying out different technologies. I have been engaged in production development for 5+ years.
 </p>
 
 <p>
-    ✨ I have experience in full stack development, creating web-based datalakes and data platforms, creation data pipeline for big volume of data, working with machine learning (worked of Data science startups), and I can also create CI/CD pipelines and deploy applications in cloud.
+    ✨ I have experience in full stack development, creation web-based datalakes and data platforms, creation data pipeline for big volume of data. I have worked with machine learning (at my own startups). I can also create CI/CD pipelines and deploy applications in cloud.
 </p>
 
 <p>
-    🎓 Software engineer which design and development web-based applications using mostly interpreted programming languages. Hands-on experience in all phases of software development life cycle like requirements gathering, business analysis, architectural and project design, development and integration with engineering practices and patterns, documentation, testing and implementation with Agile methodologies. I really respect the engineering culture without excesses and love healthy perfectionism in programming. My engineering hobby is ML algorithms and neural network.
+    🎓 I'm a software engineer who design and develop web-based applications using mostly interpreted programming languages. Hands-on experience in all phases of software development life cycle: requirements gathering, business analysis, architectural and project design, development and integration with engineering practices and patterns, documentation, testing and implementation with Agile methodologies.
 </p>
 
-## 👩‍💻 My technology stack:
+<p>
+    😉 I really respect engineering culture without excesses and love healthy perfectionism in programming. My engineering hobby is ML algorithms and neural network.
+</p>
+
+## 👩‍💻 My Tech stack:
 
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
 ![Ruby](https://img.shields.io/badge/-Ruby-333?style=for-the-badge&logo=ruby)
