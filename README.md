@@ -19,7 +19,7 @@
 ## 🔭 About me
 
 <p>
-    ✌️ My name is Vadim. I have been programming for 7+ years, trying out different technologies. I have been engaged in production development for 5+ years.
+    ✌️ My name is Vadim. I have been programming for 8+ years, trying out different technologies. I have been engaged in production development for 5+ years.
 </p>
 
 <p>
