@@ -6,7 +6,7 @@
 <p align="center">
     <h1 align="center">VadimKulyba</h1>
     <p align="center">
-        <img id="preview" src="https://visitor-badge.glitch.me/badge?page_id=VadimKulyba">
+        <img id="preview" src="https://api.visitorbadge.io/api/VisitorHit?user=VadimKulyba&repo=github-visitors-badge&countColor=%23D62F79">
     </p>
 </p>
 
@@ -37,16 +37,18 @@
 ## 👩‍💻 My Tech stack:
 
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
-![Ruby](https://img.shields.io/badge/-Ruby-333?style=for-the-badge&logo=ruby)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-333?style=for-the-badge&logo=node.js)
+![Ruby](https://img.shields.io/badge/-Ruby-333?style=for-the-badge&logo=ruby)
 
 ![Falcon](https://img.shields.io/badge/-Falcon-333?style=for-the-badge&logo=Falcon)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=for-the-badge&logo=FastAPI)
 ![Django](https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=Django)
-![Rails](https://img.shields.io/badge/-Rails-333?style=for-the-badge&logo=RubyOnRails)
 ![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=React)
+![Express](https://img.shields.io/badge/-Remix-333?style=for-the-badge&logo=Remix)
 ![Express](https://img.shields.io/badge/-Express-333?style=for-the-badge&logo=Express)
+![Rails](https://img.shields.io/badge/-Rails-333?style=for-the-badge&logo=RubyOnRails)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql)
@@ -74,9 +76,8 @@
     </a>
 </p>
 
-
 <p align="center">
     <a href="https://github.com/VadimKulyba">
-        <img src="https://github-readme-stats.vercel.app/api?username=VadimKulyba&show_icons=true&hide=issues,contribs&count_private=true&theme=dark">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VadimKulyba&theme=dark&hide_border=false">
     </a>
 </p>
