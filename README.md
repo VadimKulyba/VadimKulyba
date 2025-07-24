@@ -75,9 +75,3 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VadimKulyba&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true">
     </a>
 </p>
-
-<p align="center">
-    <a href="https://github.com/VadimKulyba">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=VadimKulyba&theme=dark&hide_border=false">
-    </a>
-</p>
