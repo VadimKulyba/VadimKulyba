@@ -16,7 +16,7 @@
 
 ---
 
-## About
+## 🔭 About
 
 Team Lead with **9+ years** building software — from own startups to enterprise platforms with **500+** engineers. I lead cross-functional teams of up to **10**, ship AI/ML into production, and stay hands-on across backend, frontend, and data engineering.
 
@@ -29,9 +29,9 @@ Domains: **TravelTech**, booking systems, **B2B**, **FinTech**, Oil & Gas, e-com
 
 ---
 
-## Tech stack
+## 🛠️ Tech stack
 
-**Languages**
+**💻 Languages**
 
 ![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=D62F79)
 ![Go](https://img.shields.io/badge/Go-101010?style=for-the-badge&logo=go&logoColor=D62F79)
@@ -39,9 +39,10 @@ Domains: **TravelTech**, booking systems, **B2B**, **FinTech**, Oil & Gas, e-com
 ![JavaScript](https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=D62F79)
 ![Ruby](https://img.shields.io/badge/Ruby-101010?style=for-the-badge&logo=ruby&logoColor=D62F79)
 
-**Backend & APIs**
+**⚙️ Backend & APIs**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-101010?style=for-the-badge&logo=fastapi&logoColor=D62F79)
+![Falcon](https://img.shields.io/badge/Falcon-101010?style=for-the-badge&logoColor=D62F79)
 ![Django](https://img.shields.io/badge/Django-101010?style=for-the-badge&logo=django&logoColor=D62F79)
 ![NestJS](https://img.shields.io/badge/NestJS-101010?style=for-the-badge&logo=nestjs&logoColor=D62F79)
 ![Node.js](https://img.shields.io/badge/Node.js-101010?style=for-the-badge&logo=nodedotjs&logoColor=D62F79)
@@ -49,14 +50,14 @@ Domains: **TravelTech**, booking systems, **B2B**, **FinTech**, Oil & Gas, e-com
 ![Rails](https://img.shields.io/badge/Rails-101010?style=for-the-badge&logo=rubyonrails&logoColor=D62F79)
 ![gRPC](https://img.shields.io/badge/gRPC-101010?style=for-the-badge&logoColor=D62F79)
 
-**Frontend**
+**🎨 Frontend**
 
 ![React](https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&logoColor=D62F79)
 ![Remix](https://img.shields.io/badge/Remix-101010?style=for-the-badge&logo=remix&logoColor=D62F79)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-101010?style=for-the-badge&logo=reactquery&logoColor=D62F79)
 ![Yjs](https://img.shields.io/badge/Yjs%20%2F%20CRDT-101010?style=for-the-badge&logoColor=D62F79)
 
-**Data**
+**🗄️ Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=D62F79)
 ![MySQL](https://img.shields.io/badge/MySQL-101010?style=for-the-badge&logo=mysql&logoColor=D62F79)
@@ -65,24 +66,24 @@ Domains: **TravelTech**, booking systems, **B2B**, **FinTech**, Oil & Gas, e-com
 ![Kafka](https://img.shields.io/badge/Kafka-101010?style=for-the-badge&logo=apachekafka&logoColor=D62F79)
 ![Airflow](https://img.shields.io/badge/Airflow-101010?style=for-the-badge&logo=apacheairflow&logoColor=D62F79)
 
-**Cloud & DevOps**
+**☁️ Cloud & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-101010?style=for-the-badge&logo=docker&logoColor=D62F79)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-101010?style=for-the-badge&logo=kubernetes&logoColor=D62F79)
+![Linux](https://img.shields.io/badge/Linux-101010?style=for-the-badge&logo=linux&logoColor=D62F79)
 ![AWS](https://img.shields.io/badge/AWS-101010?style=for-the-badge&logo=amazonwebservices&logoColor=D62F79)
 ![GCP](https://img.shields.io/badge/GCP-101010?style=for-the-badge&logo=googlecloud&logoColor=D62F79)
 ![Azure](https://img.shields.io/badge/Azure-101010?style=for-the-badge&logo=microsoftazure&logoColor=D62F79)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI%2FCD-101010?style=for-the-badge&logo=gitlab&logoColor=D62F79)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-101010?style=for-the-badge&logo=opentelemetry&logoColor=D62F79)
 
-**AI tooling**
+**✨ AI tooling**
 
 ![Cursor](https://img.shields.io/badge/Cursor-101010?style=for-the-badge&logo=cursor&logoColor=D62F79)
 ![Claude](https://img.shields.io/badge/Claude_Code-101010?style=for-the-badge&logo=anthropic&logoColor=D62F79)
 
 ---
 
-## GitHub stats
+## 📈 GitHub stats
 
 <div align="center">
 
@@ -98,7 +99,7 @@ Domains: **TravelTech**, booking systems, **B2B**, **FinTech**, Oil & Gas, e-com
 
 <div align="center">
 
-### Education
+### 🎓 Education
 
 **BSUIR** — M.Sc. Systems Analysis, Control & Data Processing (2021)  
 **BSUIR** — B.Sc. IT & Control in Technical Systems (2019)
