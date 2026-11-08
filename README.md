@@ -18,71 +18,67 @@
 
 ## About
 
-Team Lead with **9+ years** building software — from own startups to enterprise platforms with **500+** engineers. I lead cross-functional teams of up to **10**, ship AI/ML into production, and still stay hands-on across backend, frontend, and data.
+Team Lead with **9+ years** building software — from own startups to enterprise platforms with **500+** engineers. I lead cross-functional teams of up to **10**, ship AI/ML into production, and stay hands-on across backend, frontend, and data engineering.
 
-Domains I know well: **TravelTech**, booking systems, **B2B**, **FinTech**, Oil & Gas, e-commerce.
+Domains: **TravelTech**, booking systems, **B2B**, **FinTech**, Oil & Gas, e-commerce.
 
-**What I bring**
-- Architecture from zero — or debugging deep issues in an existing system
-- Full team lifecycle: hiring, mentoring, 1:1s, delivery ownership
-- Faster teams: clearer ownership, fewer bugs, shorter time-to-market
-- Strong depth in backend, frontend, AI/ML, and data engineering
-
----
-
-## Experience highlights
-
-| Role | Product | Focus |
-| --- | --- | --- |
-| **Team Lead** · now | **WB Boards** | Real-time collaborative boards in WB Workspace — Go/TS, gRPC, Yjs/CRDT, OpenFGA; team of 6; product to prod in ~6 months |
-| **Team Lead** · 2025 | **iStudy** | AI learning platform (UAE) — FastAPI, Clean Architecture, GCP Gemini; led backend + mobile + ML + QA |
-| **Team Lead** · 2022–2025 | **Polaris Adventures** | Vehicle rental platform (US/CA/NZ) — Remix SSR, TypeScript, FastAPI; team of 10; DB hot paths ~7× faster |
-| **Stream Lead** · 2019–2023 | **EPAM / OSDU** | Energy data platform — Airflow pipelines, C++ real-time seismic, cloud file system; teams of 3–10 |
-| **Software Engineer** | **SBER · Velmie · Etailerlab** | CRM integrations, marketplace ranking, Rails/Django products |
+**Focus**
+- Architecture from zero — or finding and fixing issues in an existing system
+- Team lifecycle: hiring, mentoring, 1:1s, delivery ownership
+- Faster delivery: clearer ownership, fewer bugs, shorter time-to-market
 
 ---
 
 ## Tech stack
 
-**Languages & backend**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=D62F79)
 ![Go](https://img.shields.io/badge/Go-101010?style=for-the-badge&logo=go&logoColor=D62F79)
 ![TypeScript](https://img.shields.io/badge/TypeScript-101010?style=for-the-badge&logo=typescript&logoColor=D62F79)
 ![JavaScript](https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=D62F79)
 ![Ruby](https://img.shields.io/badge/Ruby-101010?style=for-the-badge&logo=ruby&logoColor=D62F79)
+
+**Backend & APIs**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-101010?style=for-the-badge&logo=fastapi&logoColor=D62F79)
 ![Django](https://img.shields.io/badge/Django-101010?style=for-the-badge&logo=django&logoColor=D62F79)
 ![NestJS](https://img.shields.io/badge/NestJS-101010?style=for-the-badge&logo=nestjs&logoColor=D62F79)
 ![Node.js](https://img.shields.io/badge/Node.js-101010?style=for-the-badge&logo=nodedotjs&logoColor=D62F79)
+![Express](https://img.shields.io/badge/Express-101010?style=for-the-badge&logo=express&logoColor=D62F79)
+![Rails](https://img.shields.io/badge/Rails-101010?style=for-the-badge&logo=rubyonrails&logoColor=D62F79)
 ![gRPC](https://img.shields.io/badge/gRPC-101010?style=for-the-badge&logoColor=D62F79)
 
-**Frontend & realtime**
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&logoColor=D62F79)
 ![Remix](https://img.shields.io/badge/Remix-101010?style=for-the-badge&logo=remix&logoColor=D62F79)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-101010?style=for-the-badge&logo=reactquery&logoColor=D62F79)
 ![Yjs](https://img.shields.io/badge/Yjs%20%2F%20CRDT-101010?style=for-the-badge&logoColor=D62F79)
 
-**Data & infra**
+**Data**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=D62F79)
+![MySQL](https://img.shields.io/badge/MySQL-101010?style=for-the-badge&logo=mysql&logoColor=D62F79)
 ![Redis](https://img.shields.io/badge/Redis-101010?style=for-the-badge&logo=redis&logoColor=D62F79)
-![Kafka](https://img.shields.io/badge/Kafka-101010?style=for-the-badge&logo=apachekafka&logoColor=D62F79)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-101010?style=for-the-badge&logo=elasticsearch&logoColor=D62F79)
+![Kafka](https://img.shields.io/badge/Kafka-101010?style=for-the-badge&logo=apachekafka&logoColor=D62F79)
 ![Airflow](https://img.shields.io/badge/Airflow-101010?style=for-the-badge&logo=apacheairflow&logoColor=D62F79)
+
+**Cloud & DevOps**
+
 ![Docker](https://img.shields.io/badge/Docker-101010?style=for-the-badge&logo=docker&logoColor=D62F79)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-101010?style=for-the-badge&logo=kubernetes&logoColor=D62F79)
 ![AWS](https://img.shields.io/badge/AWS-101010?style=for-the-badge&logo=amazonwebservices&logoColor=D62F79)
 ![GCP](https://img.shields.io/badge/GCP-101010?style=for-the-badge&logo=googlecloud&logoColor=D62F79)
 ![Azure](https://img.shields.io/badge/Azure-101010?style=for-the-badge&logo=microsoftazure&logoColor=D62F79)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI%2FCD-101010?style=for-the-badge&logo=gitlab&logoColor=D62F79)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-101010?style=for-the-badge&logo=opentelemetry&logoColor=D62F79)
 
-**AI & tooling**
+**AI tooling**
 
 ![Cursor](https://img.shields.io/badge/Cursor-101010?style=for-the-badge&logo=cursor&logoColor=D62F79)
 ![Claude](https://img.shields.io/badge/Claude_Code-101010?style=for-the-badge&logo=anthropic&logoColor=D62F79)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI%2FCD-101010?style=for-the-badge&logo=gitlab&logoColor=D62F79)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-101010?style=for-the-badge&logo=opentelemetry&logoColor=D62F79)
 
 ---
 
