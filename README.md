@@ -33,33 +33,53 @@ Domains: **TravelTech**, booking systems, **B2B**, **FinTech**, Oil & Gas, e-com
 
 **💻 Languages**
 
-![Languages](https://skillicons.dev/icons?i=python,go,ts,js,ruby&theme=dark)
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![Go](https://img.shields.io/badge/-Go-333?style=for-the-badge&logo=go)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+![Ruby](https://img.shields.io/badge/-Ruby-333?style=for-the-badge&logo=ruby)
 
 **⚙️ Backend & APIs**
 
-![Backend](https://skillicons.dev/icons?i=fastapi,django,nestjs,nodejs,express,rails&theme=dark)
-
-`Falcon` · `gRPC`
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=for-the-badge&logo=FastAPI)
+![Falcon](https://img.shields.io/badge/-Falcon-333?style=for-the-badge&logo=Falcon)
+![Django](https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=Django)
+![NestJS](https://img.shields.io/badge/-NestJS-333?style=for-the-badge&logo=nestjs)
+![NodeJs](https://img.shields.io/badge/-NodeJs-333?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333?style=for-the-badge&logo=Express)
+![Rails](https://img.shields.io/badge/-Rails-333?style=for-the-badge&logo=RubyOnRails)
+![gRPC](https://img.shields.io/badge/-gRPC-333?style=for-the-badge)
 
 **🎨 Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=react,remix&theme=dark)
-
-`TanStack Query` · `Yjs / CRDT`
+![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=React)
+![Remix](https://img.shields.io/badge/-Remix-333?style=for-the-badge&logo=Remix)
+![TanStack Query](https://img.shields.io/badge/-TanStack_Query-333?style=for-the-badge&logo=reactquery)
+![Yjs](https://img.shields.io/badge/-Yjs%2FCRDT-333?style=for-the-badge)
 
 **🗄️ Data**
 
-![Data](https://skillicons.dev/icons?i=postgres,mysql,redis,elasticsearch,kafka&theme=dark)
-
-`Airflow`
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/-Redis-333?style=for-the-badge&logo=Redis)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333?style=for-the-badge&logo=elasticsearch)
+![Kafka](https://img.shields.io/badge/-Kafka-333?style=for-the-badge&logo=apachekafka)
+![Airflow](https://img.shields.io/badge/-Airflow-333?style=for-the-badge&logo=apacheairflow)
 
 **☁️ Cloud & DevOps**
 
-![Cloud](https://skillicons.dev/icons?i=docker,kubernetes,linux,aws,gcp,azure,gitlab&theme=dark)
+![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=for-the-badge&logo=kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=Linux)
+![AWS](https://img.shields.io/badge/-AWS-333?style=for-the-badge&logo=AWS)
+![GCP](https://img.shields.io/badge/-GCP-333?style=for-the-badge&logo=googlecloud)
+![Azure](https://img.shields.io/badge/-Azure-333?style=for-the-badge&logo=microsoftazure)
+![Gitlab CI](https://img.shields.io/badge/-GitlabCI-333?style=for-the-badge&logo=Gitlab)
 
 **✨ AI tooling**
 
-`Cursor` · `Claude Code`
+![Cursor](https://img.shields.io/badge/-Cursor-333?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/-Claude_Code-333?style=for-the-badge)
 
 ---
 
