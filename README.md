@@ -4,7 +4,7 @@
 
 # Vadim Kulyba
 
-**Team / Tech Lead** · open to relocation
+**Team / Tech Lead**
 
 [![Profile views](https://komarev.com/ghpvc/?username=VadimKulyba&label=Profile%20views&color=D62F79&style=for-the-badge)](https://github.com/VadimKulyba)
 
