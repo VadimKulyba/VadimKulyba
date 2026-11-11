@@ -99,7 +99,7 @@ Team Lead with **9+ years** building software — from own startups to enterpris
 
   <img src="https://streak-stats.demolab.com?user=VadimKulyba&theme=radical&hide_border=true&background=050510&ring=00E5FF&fire=D62F79&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" width="100%" />
   <br />
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VadimKulyba&theme=2077" alt="GitHub stats" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VadimKulyba&theme=2077" alt="Repos per language" />
 
 </div>
 
