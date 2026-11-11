@@ -7,9 +7,9 @@
 **Team / Tech Lead**
 
 <img src="https://komarev.com/ghpvc/?username=VadimKulyba&label=Profile%20views&color=D62F79&style=for-the-badge" alt="Profile views" />
-
+<br />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=900&color=D62F79&center=true&vCenter=true&width=480&lines=Building+products+%26+leading+teams;TravelTech+%7C+FinTech+%7C+AI%2FML+%7C+Enterprise;Architecture+%C2%B7+delivery+%C2%B7+engineering+culture" alt="typing headline" />
-
+<br />
 [Telegram](https://t.me/VadimKulyba) · [Email](mailto:kulyba.vadim@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vadim-kulyba)
 
 </div>
@@ -87,10 +87,10 @@ Domains: **TravelTech**, booking systems, **B2B**, **FinTech**, Oil & Gas, e-com
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=VadimKulyba&theme=pinkish&hide_border=true&background=0D1117&ring=D62F79&fire=D62F79&currStreakLabel=D62F79&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
+<br />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VadimKulyba&theme=github_dark" alt="GitHub stats" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VadimKulyba&theme=github_dark" alt="Repos per language" />
-<br />
-<img src="https://streak-stats.demolab.com?user=VadimKulyba&theme=pinkish&hide_border=true&background=0D1117&ring=D62F79&fire=D62F79&currStreakLabel=D62F79&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" />
 
 </div>
 
