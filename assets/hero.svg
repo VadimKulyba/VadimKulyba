@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-label="Vadim Kulyba - Team / Tech Lead">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030712"/>
+      <stop offset="40%" stop-color="#0a0520"/>
+      <stop offset="100%" stop-color="#12001a"/>
+    </linearGradient>
+    <linearGradient id="neonBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#00E5FF"/>
+      <stop offset="50%" stop-color="#D62F79"/>
+      <stop offset="75%" stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="floor" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.22"/>
+      <stop offset="55%" stop-color="#D62F79" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#D62F79" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowM" cx="38%" cy="40%" r="45%">
+      <stop offset="0%" stop-color="#D62F79" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#D62F79" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowC" cx="62%" cy="38%" r="45%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#00E5FF" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <pattern id="scan" width="1200" height="4" patternUnits="userSpaceOnUse">
+      <rect width="1200" height="2" fill="#ffffff" fill-opacity="0.03"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="460" fill="url(#bg)"/>
+  <rect width="1200" height="460" fill="url(#glowM)"/>
+  <rect width="1200" height="460" fill="url(#glowC)"/>
+  <rect width="1200" height="460" fill="url(#grid)"/>
+
+  <g opacity="0.7">
+    <polygon points="0,460 1200,460 820,280 380,280" fill="url(#floor)"/>
+    <line x1="600" y1="280" x2="600" y2="460" stroke="#00E5FF" stroke-opacity="0.45" stroke-width="1.5"/>
+    <line x1="520" y1="280" x2="340" y2="460" stroke="#00E5FF" stroke-opacity="0.28" stroke-width="1"/>
+    <line x1="680" y1="280" x2="860" y2="460" stroke="#00E5FF" stroke-opacity="0.28" stroke-width="1"/>
+    <line x1="440" y1="280" x2="120" y2="460" stroke="#D62F79" stroke-opacity="0.22" stroke-width="1"/>
+    <line x1="760" y1="280" x2="1080" y2="460" stroke="#D62F79" stroke-opacity="0.22" stroke-width="1"/>
+    <line x1="360" y1="280" x2="-40" y2="460" stroke="#00E5FF" stroke-opacity="0.14" stroke-width="1"/>
+    <line x1="840" y1="280" x2="1240" y2="460" stroke="#00E5FF" stroke-opacity="0.14" stroke-width="1"/>
+    <line x1="180" y1="350" x2="1020" y2="350" stroke="#00E5FF" stroke-opacity="0.2" stroke-width="1"/>
+    <line x1="280" y1="320" x2="920" y2="320" stroke="#D62F79" stroke-opacity="0.18" stroke-width="1"/>
+    <line x1="80" y1="400" x2="1120" y2="400" stroke="#00E5FF" stroke-opacity="0.16" stroke-width="1"/>
+    <line x1="380" y1="280" x2="820" y2="280" stroke="#00E5FF" stroke-opacity="0.55" stroke-width="1.5"/>
+  </g>
+
+  <g fill="none" stroke-width="2">
+    <path d="M28 88 V28 H88" stroke="#00E5FF" opacity="0.95"/>
+    <path d="M1172 88 V28 H1112" stroke="#D62F79" opacity="0.95"/>
+    <path d="M28 372 V432 H88" stroke="#D62F79" opacity="0.95"/>
+    <path d="M1172 372 V432 H1112" stroke="#00E5FF" opacity="0.95"/>
+    <path d="M110 28 H220" stroke="#00E5FF" opacity="0.35"/>
+    <path d="M980 28 H1090" stroke="#D62F79" opacity="0.35"/>
+    <path d="M110 432 H220" stroke="#D62F79" opacity="0.35"/>
+    <path d="M980 432 H1090" stroke="#00E5FF" opacity="0.35"/>
+  </g>
+
+  <g stroke="#00E5FF" stroke-width="1" opacity="0.5">
+    <line x1="28" y1="140" x2="48" y2="140"/>
+    <line x1="28" y1="170" x2="40" y2="170"/>
+    <line x1="28" y1="200" x2="48" y2="200"/>
+    <line x1="28" y1="230" x2="40" y2="230"/>
+    <line x1="1152" y1="140" x2="1172" y2="140"/>
+    <line x1="1160" y1="170" x2="1172" y2="170"/>
+    <line x1="1152" y1="200" x2="1172" y2="200"/>
+    <line x1="1160" y1="230" x2="1172" y2="230"/>
+  </g>
+
+  <text x="606" y="128" text-anchor="middle" font-family="Arial Black, Helvetica Neue, Arial, sans-serif" font-size="72" font-weight="900" letter-spacing="3" fill="#00E5FF" opacity="0.35">VADIM KULYBA</text>
+  <text x="594" y="122" text-anchor="middle" font-family="Arial Black, Helvetica Neue, Arial, sans-serif" font-size="72" font-weight="900" letter-spacing="3" fill="#D62F79" opacity="0.45">VADIM KULYBA</text>
+  <text x="600" y="125" text-anchor="middle" font-family="Arial Black, Helvetica Neue, Arial, sans-serif" font-size="72" font-weight="900" letter-spacing="3" fill="#F5FBFF">VADIM KULYBA</text>
+
+  <rect x="300" y="150" width="600" height="3" fill="url(#neonBar)"/>
+
+  <text x="600" y="195" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="26" letter-spacing="8" fill="#D62F79">TEAM / TECH LEAD</text>
+
+  <text x="600" y="245" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20" letter-spacing="1.5" fill="#8BE9FD" opacity="0.95">TravelTech  |  booking systems  |  B2B</text>
+  <text x="600" y="275" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20" letter-spacing="1.5" fill="#8BE9FD" opacity="0.95">FinTech  |  Oil &amp; Gas  |  e-commerce</text>
+
+  <text x="600" y="415" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="32" font-weight="700" letter-spacing="6" fill="#00E5FF">9+ YEARS</text>
+
+  <rect width="1200" height="460" fill="url(#scan)"/>
+</svg>
