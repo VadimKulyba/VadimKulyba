@@ -4,7 +4,7 @@
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=480&height=36&lines=Building+products+%26+leading+teams;TravelTech+%7C+FinTech+%7C+AI%2FML+%7C+Enterprise;Architecture+%C2%B7+delivery+%C2%B7+engineering+culture" alt="typing headline" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=480&height=36&lines=Building+products+%26+leading+teams;Backend+%C2%B7+Frontend+%C2%B7+Data+%C2%B7+AI%2FML;Architecture+%C2%B7+Delivery+%C2%B7+Engineering+culture" alt="typing headline" width="100%" />
 
   <br />
 
@@ -26,7 +26,7 @@
 
 Team Lead with **9+ years** building software — from own startups to enterprise platforms with **500+** engineers. I lead cross-functional teams of up to **10**, ship AI/ML into production, and stay hands-on across backend, frontend, and data engineering.
 
-**Domains** · TravelTech · booking systems · B2B · FinTech · Oil & Gas · e-commerce
+**Domains** · TravelTech · Booking Systems · B2B · FinTech · Oil & Gas · E-Commerce
 
 **Focus**
 - Architecture from zero — or finding and fixing issues in an existing system
@@ -100,8 +100,6 @@ Team Lead with **9+ years** building software — from own startups to enterpris
   <img src="https://streak-stats.demolab.com?user=VadimKulyba&theme=radical&hide_border=true&background=050510&ring=00E5FF&fire=D62F79&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" width="100%" />
   <br />
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VadimKulyba&theme=2077" alt="GitHub stats" />
-  <br />
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VadimKulyba&theme=2077" alt="Repos per language" />
 
 </div>
 
